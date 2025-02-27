@@ -1,4 +1,4 @@
-# VED-SR: Training-free Anomaly Event Detection Framework
+# SymReg-AD: Training-free Anomaly Event Detection Framework
 
 [![Arxiv](https://img.shields.io/badge/Arxiv-2502.05843-red)](https://arxiv.org/abs/2502.05843)
 ![License](https://img.shields.io/badge/license-MIT-blue)
